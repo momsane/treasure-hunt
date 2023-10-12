@@ -1,7 +1,6 @@
 # Pirate code
 
-I.    The Captain and Quartermaster to receive two shares of a prize.
-      The First-mate to receive one share of a prize.
+I.    The Captain and Quartermaster to receive equal shares of a prize.
 
 II.   Every man has equal title to the fresh provisions, or strong liquors,
       and may use them at pleasure, unless a scarcity makes it necessary, for
@@ -42,5 +41,5 @@ XI.   Any man deserting the ship in battle or rewriting history on the
   above, so you get your fair share of the prize!
 
 Captain      : Meline Garcia  
-Quartermaster: NAME HERE  
-First mate   : NAME HERE  
+Quartermaster: Gerrrman  
+First mate   : Gerrrman  
